@@ -6,7 +6,7 @@
    Tutorial Case
 
    Countdown Clock
-   Author: Todd Nash    
+   Author: Navpreet Singh    
    Date: 2004-06-03
 
 */
